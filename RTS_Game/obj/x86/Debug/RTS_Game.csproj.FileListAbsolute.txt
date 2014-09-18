@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\bin\Debug\RTS_Game.exe
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\bin\Debug\RTS_Game.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.MainFrame.resources
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.exe
+c:\users\administrator\documents\visual studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.pdb
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.exe
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.pdb
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\bin\Debug\RTS_Game.exe
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\bin\Debug\RTS_Game.pdb
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.MainFrame.resources
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.Properties.Resources.resources
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.csprojResolveAssemblyReference.cache
+C:\Users\rado\Documents\Visual Studio 2010\Projects\RTS_Game\RTS_Game\obj\x86\Debug\RTS_Game.csproj.GenerateResource.Cache
